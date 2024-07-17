@@ -43,7 +43,7 @@ This project uses a CNN model to classify brain images into two categories:
 Run the `Brain-tumor-detector.py` script to train the model:
 
 ```bash
-python Brain-tumor-detector.py
+python brain-cancer-detector-trainer.py
 ```
 
 This script:
