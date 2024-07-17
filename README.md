@@ -1,3 +1,8 @@
+```bash
+    pip install -r requirements.txt
+```
+
+
 ```markdown
 # 🧠 Brain Tumor Detection with Deep Learning
 
